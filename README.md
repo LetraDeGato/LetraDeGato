@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LetraDeGato](https://github.com/LetraDeGato)
 
-- 💬 Ask me about **Cat´s**
+- 💬 Ask me about **Cat´s**, hand Hollow Knight
 
 - 📫 How to reach me **joseph.esteban428@gmail.com**
 
