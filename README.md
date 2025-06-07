@@ -1,11 +1,10 @@
 <h1 align="center">👋, I'm Joseph </h1>
 <h3 align="center">A passionate technical developer from Colombia</h3>
 
-🌱 I’m currently learning **Frameworks, and design**
 
 🎮 I’m looking to collaborate on **Videogames, frontend and backend web desing or problems jr. :P**
 
-💬 Ask me about **Cats**, and Hollow Knight. 
+💬 Ask me about **Cats**, and the Hollow Knight. 
 
 📫 contact me **joseph.esteban428@gmail.com**
 
