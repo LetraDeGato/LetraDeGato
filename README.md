@@ -2,14 +2,6 @@
 <h3 align="center">A passionate technical developer from Colombia</h3>
 
 
-🎮 I’m looking to collaborate on **Videogames, frontend and backend web desing or problems jr. :P**
-
-💬 Ask me about **Cats**, and the Hollow Knight. 
-
-📫 contact me **joseph.esteban428@gmail.com**
-
-I will be uploading my projects [https://github.com/LetraDeGato](https://github.com/LetraDeGato)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joseph-e-lopez-c-237559220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joseph-e-lopez-c-237559220/" height="30" width="40" /></a>
