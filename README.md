@@ -1,10 +1,8 @@
 <h1 align="center">Welcome to my dungeon</h1>
 <h3 align="center">A passionate for videogames </h3>
 
-<h3 align="center">A passionate for videogames</h3>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b49a2462-1af7-4ba1-99e5-4fd92387a832" width="140">
+  <img src="https://github.com/user-attachments/assets/b49a2462-1af7-4ba1-99e5-4fd92387a832" width="100">
 </p>
 
 <h3 align="left">Powers and spells: </h3> 
