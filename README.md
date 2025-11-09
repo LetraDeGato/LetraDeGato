@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhoMHZzOGd2bnkyd200cThvMzliN2tscW5kMnlmcXRqcjdsM2dsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9wUBK91SW8VnxoIrmg/giphy.gif" width="70" />
-  <h1 style="display:inline-block; vertical-align: middle;">Welcome to my dungeon</h1>
-</div>
+<div align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhoMHZzOGd2bnkyd200cThvMzliN2tscW5kMnlmcXRqcjdsM2dsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9wUBK91SW8VnxoIrmg/giphy.gif" width="70" /><h1 style="display:inline-block; vertical-align: middle;">Welcome to my dungeon</h1></div>
 <h3 align="center">A passionate for videogames </h3>
 
 <p align="center">
