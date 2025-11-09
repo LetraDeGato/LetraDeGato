@@ -4,6 +4,7 @@
   <h1 style="display:inline-block; vertical-align: middle;">Welcome to my dungeon</h1>
 </div>
 <h3 align="center">A passionate for videogames </h3>
+![Skeleton 8Bit Sticker](https://github.com/user-attachments/assets/deb1e8c6-ca4c-4480-a56b-e3ca330d2b6e)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b49a2462-1af7-4ba1-99e5-4fd92387a832" width="100">
