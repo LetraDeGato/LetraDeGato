@@ -7,7 +7,7 @@
 ![Skeleton 8Bit Sticker](https://github.com/user-attachments/assets/deb1e8c6-ca4c-4480-a56b-e3ca330d2b6e)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b49a2462-1af7-4ba1-99e5-4fd92387a832" width="100">
+  <img src="https://github.com/user-attachments/assets/b49a2462-1af7-4ba1-99e5-4fd92387a832" width="90">
 </p>
 
 <h3 align="left">Powers and spells: </h3> 
