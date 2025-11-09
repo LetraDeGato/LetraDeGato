@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![Skeleton 8Bit Sticker](https://github.com/user-attachments/assets/c1ca2550-65a5-4ecf-85d8-ccdb1e0d78c0)
+  <img src="(https://github.com/user-attachments/assets/c1ca2550-65a5-4ecf-85d8-ccdb1e0d78c0)
 " width="60" />
   <h1 style="display:inline-block; vertical-align: middle;">Welcome to my dungeon</h1>
 </div>
